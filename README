@@ -1,0 +1,5 @@
+RxJava , Koin , Kakao API 를 이용한 MVVM 패턴 공부 예제입니다
+
+viewModel과 activity를 basic으로 기본적인 틀을 만들고 main에서 이 basic들을 상속받는 식으로 구현했습니다.
+
+이 예제를 하면서 Koin과 의존성 주입에 대해서 더 공부해야겠다고 느꼈습니다.
